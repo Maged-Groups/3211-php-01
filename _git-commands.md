@@ -25,3 +25,11 @@ git commit -m "Your meesage"
 git config --global user.name "Maged Yaseen"
 git config --global user.email "magedyaseengroups@gmail.com"
 ```
+
+- List all commits
+```git
+git log
+```
+- If you have a long list of commits:
+    <p>use (**Enter**) key to see next line</p>
+    <p>use (**q**) key to exit the log</p>
