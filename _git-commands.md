@@ -19,3 +19,9 @@ git add .
 ```git
 git commit -m "Your meesage"
 ```
+
+- Add your name and email to git config
+```git
+git config --global user.name "Maged Yaseen"
+git config --global user.email "magedyaseengroups@gmail.com"
+```
