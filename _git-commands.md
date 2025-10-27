@@ -14,3 +14,8 @@ git add <filepath>
 ```git
 git add .
 ```
+
+- commit your changes
+```git
+git commit -m "Your meesage"
+```

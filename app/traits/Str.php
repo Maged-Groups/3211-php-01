@@ -12,5 +12,11 @@ trait Str
     public static function humanizeSingular(string $string): string
     {
     }
+    public static function sanitize(string $string): string
+    {
+    }
+    public static function slug(string $string): string
+    {
+    }
 
 }
