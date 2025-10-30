@@ -10,4 +10,12 @@ class PostController extends Controller
 
         Arr::set($posts, "name", "id");
     }
+
+    public function create(){
+        
+    }
+
+    public function store(){
+
+    }
 }
