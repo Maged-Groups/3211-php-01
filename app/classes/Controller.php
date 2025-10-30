@@ -1,7 +1,7 @@
 <?php
 namespace App\Classes;
 
-use App\Traits\{Arr, Str};
+use App\Traits\{Arr, Str, Token};
 
 
 class Controller
